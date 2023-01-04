@@ -1,7 +1,7 @@
 # Linux Araçları ve Kabuk Programlama Dersi Dönem Projesi - chmod Komutu için TUI
 * Linux Araçları ve Kabuk Programlama dersinin dönem projesi için chmod komutuna Linux bash script diliyle kodlanmış olduğum ve bir yer hariç Whiptail Kütüphanesi kullandığım metin tabanlı kullanıcı arayüzü (TUI) uygulamasıdır.
 ## ~ Youtube Linki
-* Uygulamanın ve kodun Youtube'daki detaylı anlatımı için [ buraya tıklayınız]().
+* Uygulamanın ve kodun Youtube'daki detaylı anlatımı için [ buraya tıklayınız](https://youtu.be/COYBMHVYEi8).
 
 ## ~ Uygulamalanın Özellikleri 
 * Uygulamanın yetki ekleme, yetki çıkarma, herkese tüm yetkileri verme, herkesin tüm yetkilerini alma ve yetkileri 0'dan oluşturma şeklinde 5 özelliği vardır.
